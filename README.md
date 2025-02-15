@@ -65,7 +65,7 @@ php artisan panel:install
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/playpulse/panel.git
+git clone https://github.com/dinethnethsara/Playpulse-Hosting-Panel-Testing/panel.git
 cd panel
 composer install
 npm install
