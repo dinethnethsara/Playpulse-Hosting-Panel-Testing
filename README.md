@@ -1,6 +1,6 @@
 # Play Pulse Panel - The Ultimate Game Server Management Solution
 
-Play Pulse Panel is the most advanced, feature-rich game server management panel, surpassing traditional solutions like Pterodactyl and LEOX Panel in functionality, performance, and ease of use.
+Play Pulse Panel is the most advanced, feature-rich game server management panel, surpassing traditional solutions like Pterodactyl and Puffer Panel in functionality, performance, and ease of use.
 
 ## 🚀 Key Features
 
